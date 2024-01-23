@@ -1,7 +1,0 @@
-cmd 창에서 해당경로로 이동해서
-gradlew build를 입력
-build 폴더가 생성
-build 폴더 안 libs 폴더에 들어가면 snapshot.jar 파일 생성되어 있음
-나중에 서버에 배포할 때는 서버에서 java -jar 로 스냅샷 파일만 실행하면됨
-
-gradlew clean 하면 빌드폴더 없앨수있음
